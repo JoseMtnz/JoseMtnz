@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Jose Martinez, Data Analytics graduate with a huge background in the Tourism industry
+My name is Jose Martinez, Data Analytics graduate with a huge background in the Tourism industry.
 
-I love travelling, new technologies, 
+I love travelling, new technologies and sports.
+
+You can reach me on https://www.linkedin.com/in/jose-miguel-martinez-montero/
 
 <!--
 **JoseMtnz/JoseMtnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
