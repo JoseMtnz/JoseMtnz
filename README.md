@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello World 👋
 
-My name is Jose Martinez, Data Analytics graduate with a huge background in the Tourism industry.
+My name is Jose Martinez, Data Analytics graduate with a huge background in the Tourism and Finance industry making his baby steps into the Data world.
 
-I love travelling, new technologies and sports.
+I'm currently working as Risk Data Analyst and I'm in love with what I'm douing. I'also love travelling, new technologies and sports.
 
 You can reach me on https://www.linkedin.com/in/jose-miguel-martinez-montero/
 
